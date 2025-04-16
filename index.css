@@ -54,6 +54,16 @@ body {
     background-color: #f9f7f7;
   }
 
+  .form-actions{
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 15px;
+  }
+  .form-actions button {
+    width: 200px;
+    max-width: 100%;
+  }
+
   form label {
     display: block;
     margin-top: 10px;
