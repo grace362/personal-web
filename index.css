@@ -54,6 +54,11 @@ body {
     background-color: #f9f7f7;
   }
 
+  .image{
+    display: flex;
+    justify-content: center;
+  }
+
   .form-actions{
     display: flex;
     justify-content: flex-start;
